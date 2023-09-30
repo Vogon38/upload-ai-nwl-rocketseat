@@ -11,8 +11,3 @@ O upload.ai é um projeto desenvolvido durante o Next Level Week (NWL) da Rocket
 - Escolha de prompts para personalizar as transcrições.
 - Escolha de modelos de IA para geração de conteúdo.
 - Controle da "temperatura" da IA para ajustar a criatividade da geração de texto.
-
-## Implantação
-
-Implantação
-Este projeto está disponível na Vercel. Você pode acessá-lo [aqui](https://upload-ai-nwl-rocketseat.vercel.app).
